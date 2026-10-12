@@ -235,7 +235,7 @@ nav a:hover, footer a:hover {
 
 .feature-image img {
     object-position: center 20%;
-    mix-blend-mode: luminosity;
+    mix-blend-mode: color-burn;
 }
 
 .feature-text {
